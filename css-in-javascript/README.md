@@ -74,7 +74,7 @@
       },
 
       muscles_sadBears: {
-        width: '100%',
+        width: '90%',
       },
     }
 
